@@ -1,0 +1,30 @@
+*{
+ margin: 0;
+ padding: 5px;
+ background-color: azure;
+}
+
+
+h1{
+    color: rgb(27, 173, 184);
+    text-align: center;
+}
+
+h2{
+    color: aliceblue;
+    background-color: brown;
+}
+
+strong{
+    color: cornflowerblue;
+}
+
+em{
+    color: cornflowerblue;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+}
